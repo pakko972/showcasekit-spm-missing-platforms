@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "showcasekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pakko972/ShowcaseKit",
+      "state" : {
+        "branch" : "spm-platforms",
+        "revision" : "1d1f8ec130921c05e207c5ca314701bf44a84759"
+      }
+    }
+  ],
+  "version" : 2
+}
